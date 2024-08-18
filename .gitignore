@@ -1,0 +1,8 @@
+.env
+*.env
+**/*.env
+docker-compose.yaml
+docker*.yaml
+**/docker-compose.yaml
+**/docker*.yaml
+bin/
